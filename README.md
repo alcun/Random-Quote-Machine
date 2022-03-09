@@ -1,5 +1,6 @@
 # Random Quote machine
 
+A random quote machine built with ReactJS.
 
 It generates quotes by fetching and parsing the JSON data from href='https://type.fit/api/quotes'
 
